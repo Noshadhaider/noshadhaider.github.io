@@ -1,1 +1,10 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.noshad.childguard",
+    "sha256_cert_fingerprints": [
+      "77:53:E5:EA:C7:AC:5D:81:DC:5F:B8:59:2F:07:A2:B6:1F:35:C1:17:30:6E:34:3A:65:83:53:71:44:19:7F:6C"
+    ]
+  }
+}]
